@@ -9,6 +9,6 @@ Date: 5th November 2019
 Live link to the presentation can be found here: https://www.atulr.com/nodegui-karmajs-meetup
 
 
-[![NodeGui and React NodeGui at KarmaJS Nov 2019 meetup](https://img.youtube.com/vi/XbMFYXZLPNw/0.jpg)](https://www.youtube.com/watch?v=XbMFYXZLPNw)
+[![NodeGui and React NodeGui at KarmaJS Nov 2019 meetup](https://img.youtube.com/vi/8jH5gaEEDv4/0.jpg)](https://www.youtube.com/watch?v=8jH5gaEEDv4)
 
 More interesting talks by Atul: https://slides.com/atulr/
